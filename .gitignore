@@ -13,3 +13,4 @@ Thumbs.db
 prod/
 .icons.temp
 *.zip
+.tags*
